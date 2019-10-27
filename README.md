@@ -1,2 +1,2 @@
 # php-crud
-#Simple CRUD application made with PHP
+#Simple CRUD application made with PHP.
